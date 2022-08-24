@@ -1,0 +1,31 @@
+{
+  "name": "VNHA Metacars #10",
+  "description": "VHNA Metacars are soon to the hit the lands of Decentraland. Metaverse racing, community building and more surprises in the near future.",
+  "image": "ipfs://QmWx8SLGW4sfphunhmtGjAobQPnAAE59vjFzLNmSwkZCTA/10.png",
+  "dna": "236c30bf67bba8760c6d37e4a253e7f69d73b787",
+  "edition": 10,
+  "date": 1646653653749,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "BASE"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "DECAL"
+    },
+    {
+      "trait_type": "Rim",
+      "value": "RIM"
+    },
+    {
+      "trait_type": "Trim",
+      "value": "TRIMM"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
